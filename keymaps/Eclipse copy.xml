@@ -1,0 +1,13 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+  <action id="FindUsages" />
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+</keymap>
